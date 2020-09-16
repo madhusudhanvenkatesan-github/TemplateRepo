@@ -18,3 +18,4 @@
 - Are all styling added / updated in .scss files instead of inline in HTML files?
 - Was a new component / dependency added to the code?
 - If any 3rd party software’s / tools have been used for development that Licence details needs to be updated in the PR
+- Newly added line for testing the Template REPO , to be deleted
